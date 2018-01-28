@@ -1,12 +1,17 @@
 # lightning-trigger
 An arduino-based lightning trigger for still cameras. The increased ligh level
-of a lightning should trigger the electric remote release of a camear.
+of a lightning should trigger the electric remote release of a camera.
 
 This is mainly for me to play around with some arduino programming and arduino
 based hardware design. At the same time I want to have something that my
 be at least remotely useful.
 
 All software and hardware designs are GPL V3.0, see LICENSE.txt.
+
+## Tools to be useful
+
+* Arduino IDE https://www.arduino.cc/en/Main/Software for Arduino coding.
+* Fritzing http://fritzing.org/home/ for designing the board layout.
 
 ## Project roadmap
 
